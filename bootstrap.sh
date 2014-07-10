@@ -8,5 +8,5 @@ sudo apt-get -y upgrade
 sudo apt-get -y install mongodb
 sudo apt-get -y install nginx
 sudo apt-get -y install nodejs
-sudo service nginx start
-sudo service mongodb start
+# sudo service nginx start
+# sudo service mongodb start
